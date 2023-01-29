@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>assets/downbutt.png</file>
+    <file>assets/obs.png</file>
+    <file>assets/xbutt.png</file>
+    <file>assets/broom.svg</file>
+    <file>assets/arrow.png</file>
+  </qresource>
+</RCC>
